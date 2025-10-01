@@ -1,2 +1,2 @@
 # Blinkit-Grocery-Analysis
-PowerBI Project
+PowerBI Project : Developed an interactive Power BI dashboard to analyze Blinkit’s grocery sales data. Performed data cleaning and modeling, created measures and calculated fields for performance tracking, and designed dynamic visualizations for actionable insights. Enabled stakeholders to track performance, identify high-demand categories, and optimize inventory and marketing strategies.
